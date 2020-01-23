@@ -98,6 +98,7 @@ header nav {
 	top: 0;
 	
 }
+/* Great job on the sticky nav bar! */
 
 header img.logo {
 	margin-left: 78%;
@@ -162,6 +163,7 @@ header div.button:hover {
 	animation-iteration-count: infinite;
 	animation-direction: alternate;
 }
+/* If you want to make this div act more like a button, you can also add 'cursor: pointer' on hover. */
 
 header img.circle {
 	margin-left: 55%;
